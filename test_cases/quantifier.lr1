@@ -1,0 +1,24 @@
+3
+a
+b
+c
+2
+X
+BSTAR
+X
+3
+X a BSTAR c
+BSTAR
+BSTAR b BSTAR
+6
+10
+3 BSTAR shift 1
+5 BSTAR shift 2
+5 c reduce 1
+3 b shift 3
+3 c reduce 1
+5 b shift 3
+2 c shift 4
+4 a reduce 0
+0 a shift 5
+1 c reduce 2

@@ -1,0 +1,22 @@
+3
+a
+b
+c
+2
+X
+Y
+X
+2
+X a Y b
+Y c
+5
+6
+2 b shift 1
+3 b reduce 1
+4 Y shift 2
+1 a reduce 0
+4 c shift 3
+0 a shift 4
+
+
+[0 4 3] 'b'

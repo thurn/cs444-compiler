@@ -1,0 +1,1 @@
+This is an implementation of a compiler for a subset of Java called joos. The joos langauge is specified here: http://www.student.cs.uwaterloo.ca/~cs444/joos.html. This implementation targets x86 assembly. Test cases for the compiler are included in the test_cases directory.

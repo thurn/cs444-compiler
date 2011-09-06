@@ -1,0 +1,2 @@
+public strictfp class A {}
+

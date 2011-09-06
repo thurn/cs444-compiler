@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<compilation_unit>
+	<package>
+		<name>
+			<tok_identifier col="9" row="1">
+				java
+			</tok_identifier>
+			<tok_identifier col="14" row="1">
+				lang
+			</tok_identifier>
+		</name>
+	</package>
+	<class canonical_name="java.lang.$Array" name="$Array">
+		<modifiers>
+			<tok_public col="1" row="2">
+				public
+			</tok_public>
+		</modifiers>
+		<class_body>
+			<field>
+				<modifiers>
+					<tok_public col="4" row="3">public</tok_public>
+                    <tok_final>final</tok_final>
+				</modifiers>
+				<type>
+					<tok_int col="11" row="3">int</tok_int>
+				</type>
+				<variable>
+					<tok_identifier col="15" row="3">length</tok_identifier>
+				</variable>
+			</field>
+            <field>
+				<modifiers>
+					<tok_private col="4" row="3">private</tok_private>
+                    <tok_final>final</tok_final>
+				</modifiers>
+				<type>
+					<tok_int col="11" row="3">int</tok_int>
+				</type>
+				<variable>
+					<tok_identifier col="15" row="3">contents_type_tag</tok_identifier>
+				</variable>
+			</field>
+		</class_body>
+	</class>
+</compilation_unit>
+
